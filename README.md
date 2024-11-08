@@ -3,7 +3,10 @@
 the extract symbols were written 100% with chatgpt, just wanted something to extract those nothing more :)
 the rest was also chatgpt but with my guidance...
 
+```
 KEY=put-your-key python3 main.py /home/loani/projects/google-ctf-main/2021/quals/pwn-tridroid/ flag
+```
+
 
 # Result
 
