@@ -4,7 +4,7 @@ KEY=put-your-key python3 main.py /home/loani/projects/google-ctf-main/2021/quals
 
 # Result
 
-
+```
 Name: method_desc_heap_address
 Type: variable
 File Path: /home/loani/projects/google-ctf-main/2021/quals/pwn-tridroid/challenge/exploit/exploit.py
@@ -31,3 +31,4 @@ bridge.manageStack(password, 'push', '');
         // leak stack canary on the stack
 
 ====================================================================================================
+```
